@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SHIM1999
-- 👀 I’m interested in C, Java, JavaScript, HTML5+CSS, SQL, Linux.
-- 🌱 I’m currently learning C, Java, JavaScript, HTML5+CSS, SQL, Linux.
+- 👋 Hi, I’m MUKHAMMED! Call me "Mukha" I'm from KARAKALPAKSTAN!
+- 👀 I’m interested in C, Java, JavaScript, HTML5+CSS, SQL, Linux, Unity.
+- 🌱 I’m currently learning Unity.
 - 💞️ I’m looking to collaborate on any project, I want some expiriences.
 - 📫 How to reach me Mukha_haha(INSTAGRAM)
 
