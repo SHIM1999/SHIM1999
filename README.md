@@ -49,7 +49,7 @@
 
 </td></tr></table>  
 
-<br>
+<br/>
 <table><tr><td valign="top" width="33%">
 
 <div align="center">
