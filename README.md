@@ -101,9 +101,7 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=SHIM1999&&style=flat-square" align="center" />
-</div>  
+
   
 
 <br/>  
