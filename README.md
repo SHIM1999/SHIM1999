@@ -92,20 +92,3 @@
   </a>
 </p>
 
----
-
-### 🎉 **What’s New?**  
-✅ **Uses official icons from Devicon CDN** (no external untrusted sources)  
-✅ **Includes GitHub streak stats animation**  
-✅ **Uses badges & center-aligned design for better visual appeal**  
-✅ **Completely free from profilinator.rishav.dev images**  
-
----
-
-### 🔥 **Final Thoughts**  
-This **README** is now **interactive, professional, and visually appealing**. It uses:  
-- ✅ **Official icons** (via jsdelivr.net)  
-- ✅ **Animated GitHub stats** (for engagement)  
-- ✅ **Modern design with badges**  
-
-**Feel free to update your contact details and let me know if you need any tweaks! 🚀🔥**  
